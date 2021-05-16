@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Ordres
+
+
+<pre>
+
+
+
+[+] pkg update
+
+[+] pkg upgrade
+
+</pre>
